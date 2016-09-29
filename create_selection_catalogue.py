@@ -6,7 +6,7 @@ import os
 import utilities as u
 from astropy.io import fits
 
-
+#ADDING A THING OOHHH NOOOOO
 data_dir = '/home/ciaran/Desktop/Workstuff/My_Code/GAMAII/Catalogues/'
 
 tables = {}
