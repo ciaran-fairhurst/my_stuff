@@ -7,7 +7,7 @@ import utilities as u
 from astropy.io import fits
 
 #ADDING A THING OOHHH NOOOOO
-#ADDED ANOTHER THING, SHOULD BE V2.0
+#ADDED ANOTHER THING, SHOULD BE V3.0
 data_dir = '/home/ciaran/Desktop/Workstuff/My_Code/GAMAII/Catalogues/'
 
 tables = {}
